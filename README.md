@@ -1,6 +1,6 @@
 # README
 
-Generic devise implementation to use in other projects
+Generic Devise gem implementation to use in other projects
 
 
 * Ruby 2.7.1p83
