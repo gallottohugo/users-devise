@@ -7,4 +7,4 @@ Generic Devise gem implementation to use in other projects
 
 * Rails 6.0.3.2
 
-* Database: MySQL
+* MySQL
